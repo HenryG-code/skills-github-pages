@@ -2,7 +2,7 @@
 title: Welcome to My GitHub Pages Site
 ---
 
-Hi, I'm **Henry Oosthuizen**, a passionate software developer and lifelong learner.
+Hi, I'm ***Henry Oosthuizen***, a passionate software developer and lifelong learner.
 
 This site is where I share:
 - 🚀 My latest coding projects
