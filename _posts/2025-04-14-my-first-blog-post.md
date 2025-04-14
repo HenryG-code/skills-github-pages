@@ -10,6 +10,6 @@ In this space, I’ll be sharing:
 - 🛠 Cool projects I’m working on
 - 💡 Lessons learned from real-world coding challenges
 
-This is just the beginning — stay tuned for more!
+This is just the beginning — stay tuned for more!!
 
 Feel free to browse the rest of my site or connect with me on [GitHub](https://github.com/HenryG-code).
