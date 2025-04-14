@@ -13,3 +13,5 @@ In this space, I’ll be sharing:
 This is just the beginning — stay tuned for more!!
 
 Feel free to browse the rest of my site or connect with me on [GitHub](https://github.com/HenryG-code).
+
+![Scenic Palm Avenue](https://images.pexels.com/photos/30694611/pexels-photo-30694611/free-photo-of-scenic-palm-tree-avenue-on-a-sunny-day.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load)
